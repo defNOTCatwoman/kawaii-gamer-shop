@@ -558,6 +558,7 @@ padding: 6px;
 
 .maylike-products-wrapper{
   margin-top: 120px;
+
 }
 .maylike-products-wrapper h2{
   text-align: center;
@@ -570,7 +571,10 @@ padding: 6px;
   display: flex;
   justify-content: center;
   gap: 15px;
-  margin-top: 20px;
+  margin-top: 20px; 
+  inline-size: 140px;
+  overflow-wrap: break-word;
+ 
 }
 .max-qty{
   font-weight: 500;
@@ -757,7 +761,7 @@ color:white;
     height: auto;
   }
   .cart-container{
-    width: 415px;
+    width: 315px;
   padding: 4px;
   }
   .cart-heading{
