@@ -3,3 +3,5 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Kawaii Gamer Shop
 
 This ecommerce site is built with Next.Js, React and Sanity.io for customization and ease of access to the backend.
+
+View it's Deployment @ https://kawaii-gamer-shop.vercel.app/
